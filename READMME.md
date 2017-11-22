@@ -1,1 +1,0 @@
-Freelancer is an Html responsive landing page.
